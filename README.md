@@ -121,7 +121,7 @@ predict(w1,w2,test)
  ### Loss Graph
  ![output](https://github.com/Saibandhavi75/Experiment-3-Implementation-of-MLP-for-non-linear-separable-problem/blob/main/n1.png?raw=true)
  ### Input - Output for XOR Gate
- ![output](https://github.com/Saibandhavi75/Experiment-3-Implementation-of-MLP-for-non-linear-separable-problem/blob/main/n1.png?raw=true)
+ ![output](https://github.com/Saibandhavi75/Experiment-3-Implementation-of-MLP-for-non-linear-separable-problem/blob/main/n2.png?raw=true)
 
 ## RESULT
 Thus a MLP is implemented for non linear separable problem using Python.
